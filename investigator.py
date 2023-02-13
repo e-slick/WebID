@@ -75,7 +75,7 @@ class Investigator:
         elif menu_selection == '6':
             print("1.) If the databases aren't working properly. Modify the paths to the configuration files.")
             print("2.) If login isn't working correctly, values are case sensitive. Make sure you're keeping case.")
-            print("3.) If you still can't figure it out, or have a suggested improvement. Email the creator at: eslickpal@gmail.com")
+            print("3.) If you still can't figure it out, or have a suggested improvement. Email the creator at: *********@gmail.com")
             self.menu()
         elif menu_selection == '7':
             self.set_configurations()
